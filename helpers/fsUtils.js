@@ -30,10 +30,10 @@ const readAndDelete = (file, id) => {
             console.error(err);
         } else {
             const parsedData = JSON.parse(data);
-            //var filteredData = parsedData.slice(i => i.id !== id);
-            // trying to get the ids to work but can only get it to delete all
-            var filteredData = parsedData.pop();
-            writeToFile(file, filteredData);
+            // takes out the id from the parsedData
+            parsedData.splice(id,1);
+
+             writeToFile(file, parsedData);
         }
     });
 };

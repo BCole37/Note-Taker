@@ -10,12 +10,15 @@ This was the first full stack app we have created it was not just a front end we
 connecting the front end and back end
 deploying to herkou 
 Having the data get entered and then added in the correct order
+deletes on click
 
 # Problems
-This took a whiule for me I had to wathc back the classes but found the miniproject very helpful.Most of my functions are alterations of the miniproject.
+This took a while for me I had to watch back the classes but found the miniproject very helpful.Most of my functions are alterations of the miniproject.
 The only problem i couldnt resolve was deleting the individual code i ended up using .pop which removes all which isn't what I wanted but is better than no delete functionality.
-I have left in some code to return to and update that I think oculd get the delte workign if I had time to make more adjustments.
+I have left in some code to return to and update that I think oculd get the delte working if I had time to make more adjustments.
 
+Update
+I change the delte through splicing the data which seemed to work
 
 # Sources For Help
 Week 11 miniproject
