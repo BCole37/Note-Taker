@@ -32,5 +32,5 @@ Week 11 miniproject
 # Link
 [Link to the Repo](https://github.com/BCole37/Note-Taker/tree/master)
 
-[Link to the heroku app](https://intense-mountain-22968.herokuapp.com/notes)
+[Link to the heroku app](https://intense-mountain-22968.herokuapp.com/)
 
